@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamrahulmehra/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/iamrahulmehra/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/iamrahulmehra/leetcode/tree/master/0066-plus-one) |
 | [0832-flipping-an-image](https://github.com/iamrahulmehra/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/iamrahulmehra/leetcode/tree/master/0835-image-overlap) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/iamrahulmehra/leetcode/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/iamrahulmehra/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/iamrahulmehra/leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/iamrahulmehra/leetcode/tree/master/0867-transpose-matrix) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/iamrahulmehra/leetcode/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/iamrahulmehra/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/iamrahulmehra/leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
