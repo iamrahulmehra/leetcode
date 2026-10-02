@@ -8,6 +8,6 @@ public class Solution {
             listb = (listb != null) ? listb.next : headA;
         }
 
-        return lista;        
+        return listb;        
     }
 }
