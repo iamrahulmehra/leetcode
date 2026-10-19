@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/iamrahulmehra/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/iamrahulmehra/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamrahulmehra/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0704-binary-search](https://github.com/iamrahulmehra/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/iamrahulmehra/leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/iamrahulmehra/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/iamrahulmehra/leetcode/tree/master/0835-image-overlap) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/iamrahulmehra/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iamrahulmehra/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamrahulmehra/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/iamrahulmehra/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
