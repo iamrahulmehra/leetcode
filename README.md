@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/iamrahulmehra/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/iamrahulmehra/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamrahulmehra/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/iamrahulmehra/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/iamrahulmehra/leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/iamrahulmehra/leetcode/tree/master/0832-flipping-an-image) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/iamrahulmehra/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/iamrahulmehra/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamrahulmehra/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/iamrahulmehra/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamrahulmehra/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamrahulmehra/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/iamrahulmehra/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iamrahulmehra/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iamrahulmehra/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/iamrahulmehra/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/iamrahulmehra/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamrahulmehra/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
@@ -341,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamrahulmehra/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
