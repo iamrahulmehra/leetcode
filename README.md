@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/iamrahulmehra/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamrahulmehra/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamrahulmehra/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/iamrahulmehra/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/iamrahulmehra/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/iamrahulmehra/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/iamrahulmehra/leetcode/tree/master/0066-plus-one) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/iamrahulmehra/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/iamrahulmehra/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iamrahulmehra/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamrahulmehra/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
