@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/iamrahulmehra/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/iamrahulmehra/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iamrahulmehra/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/iamrahulmehra/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/iamrahulmehra/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/iamrahulmehra/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/iamrahulmehra/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/iamrahulmehra/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/iamrahulmehra/leetcode/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/iamrahulmehra/leetcode/tree/master/0832-flipping-an-image) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/iamrahulmehra/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Geometry
 |  |
 | ------- |
