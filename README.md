@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/iamrahulmehra/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/iamrahulmehra/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/iamrahulmehra/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/iamrahulmehra/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamrahulmehra/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/iamrahulmehra/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamrahulmehra/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/iamrahulmehra/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/iamrahulmehra/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/iamrahulmehra/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/iamrahulmehra/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/iamrahulmehra/leetcode/tree/master/0115-distinct-subsequences) |
 | [0647-palindromic-substrings](https://github.com/iamrahulmehra/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/iamrahulmehra/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/iamrahulmehra/leetcode/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamrahulmehra/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
