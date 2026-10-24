@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamrahulmehra/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/iamrahulmehra/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/iamrahulmehra/leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/iamrahulmehra/leetcode/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/iamrahulmehra/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamrahulmehra/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamrahulmehra/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -396,4 +397,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamrahulmehra/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iamrahulmehra/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iamrahulmehra/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iamrahulmehra/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iamrahulmehra/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iamrahulmehra/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
