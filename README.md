@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/iamrahulmehra/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/iamrahulmehra/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/iamrahulmehra/leetcode/tree/master/0326-power-of-three) |
+| [0728-self-dividing-numbers](https://github.com/iamrahulmehra/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/iamrahulmehra/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamrahulmehra/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamrahulmehra/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
