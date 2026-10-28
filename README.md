@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/iamrahulmehra/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamrahulmehra/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamrahulmehra/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/iamrahulmehra/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1254-number-of-closed-islands](https://github.com/iamrahulmehra/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamrahulmehra/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/iamrahulmehra/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamrahulmehra/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamrahulmehra/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/iamrahulmehra/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1096-brace-expansion-ii](https://github.com/iamrahulmehra/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/iamrahulmehra/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Divide and Conquer
