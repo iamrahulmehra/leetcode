@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/iamrahulmehra/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/iamrahulmehra/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/iamrahulmehra/leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/iamrahulmehra/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamrahulmehra/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/iamrahulmehra/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamrahulmehra/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamrahulmehra/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/iamrahulmehra/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/iamrahulmehra/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamrahulmehra/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamrahulmehra/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iamrahulmehra/leetcode/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/iamrahulmehra/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamrahulmehra/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/iamrahulmehra/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/iamrahulmehra/leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iamrahulmehra/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/iamrahulmehra/leetcode/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamrahulmehra/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
